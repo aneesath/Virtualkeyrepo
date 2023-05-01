@@ -1,6 +1,6 @@
 # Virtualkeyrepo
 phase1project 
-1. The first option returns the current file names in ascending order. The main directory can be assigned in LockedMe class.
+1. The first option returns the current file names in ascending order. The main directory can be assigned in Filehandling class.
 
 
 2. The second option returns the details of the user interface options displaying the following:
